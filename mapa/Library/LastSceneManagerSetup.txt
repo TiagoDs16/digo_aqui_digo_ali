@@ -1,0 +1,4 @@
+sceneSetups:
+- path: D:/Diga_ai_digo_aqui/menu_01/Assets/jogar.unity
+  isLoaded: 1
+  isActive: 1
